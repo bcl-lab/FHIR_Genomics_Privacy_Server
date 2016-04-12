@@ -1,0 +1,6 @@
+flask
+flask-restful
+flask-debugtoolbar
+gunicorn
+psycopg2
+bcrypt
